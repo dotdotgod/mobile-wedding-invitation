@@ -1,15 +1,15 @@
 {
   "greeting": {
-    "title": "장세모 \uD83D\uDC8D 황네모\n결혼합니다!",
+    "title": "정인천 \uD83D\uDC8D 박지연\n결혼합니다!",
     "message": "저희 결혼합니다.\n\n서로에게 알맞은 온도로 따뜻하던 우리.\n부부로서 첫걸음을 내딛는 그 설렘의 순간에\n소중한 분들을 초대합니다.",
     "host": {
       "groom": {
-        "name": "세모",
+        "name": "인천",
         "relation": "아들",
         "parents": [
           {
             "relation": "아버지",
-            "name": "장아빠"
+            "name": "정아빠"
           },
           {
             "relation": "어머니",
@@ -18,12 +18,12 @@
         ]
       },
       "bride": {
-        "name": "네모",
+        "name": "지연",
         "relation": "딸",
         "parents": [
           {
             "relation": "아버지",
-            "name": "황아빠"
+            "name": "박아빠"
           },
           {
             "relation": "어머니",
@@ -39,7 +39,7 @@
       "host": "신랑측",
       "accountInfo": [
         {
-          "name": "장세모",
+          "name": "정인천",
           "relation": "신랑",
           "bank": "카카오뱅크",
           "account": "1234-56-789012",
@@ -64,7 +64,7 @@
       "host": "신부측",
       "accountInfo": [
         {
-          "name": "황네모",
+          "name": "박지연",
           "relation": "신부",
           "bank": "토스뱅크",
           "account": "1234-5678-9012",
@@ -87,12 +87,12 @@
     }
   ],
   "mapInfo": {
-    "address1": "아펠가모 공덕 라로브홀",
-    "address2": "서울 마포구 마포대로 92\n효성해링턴스퀘어 B동 7층\n02-2197-0230",
-    "naverMap": "https://map.naver.com/p/directions/-/14132311.1099497,4514956.9078363,%EC%95%84%ED%8E%A0%EA%B0%80%EB%AA%A8%20%EA%B3%B5%EB%8D%95,1929913788,PLACE_POI/-/transit?c=15.00,0,0,0,dh",
-    "kakaoMap": "https://map.kakao.com/?map_type=TYPE_MAP&target=car&rt=,,489503,1123003&rt1=&rt2=%EC%95%84%ED%8E%A0%EA%B0%80%EB%AA%A8%20%EA%B3%B5%EB%8D%95%EC%A0%90&rtIds=,630786038",
-    "lat": 37.54222,
-    "lon": 126.952708
+    "address1": "몽펠리에",
+    "address2": "전북 완주군 소양면 원대흥길 127-21\n063-254-6300",
+    "naverMap": "https://map.naver.com/p/directions/-/14164900.0355948,4284383.1935821,%EB%AA%BD%ED%8E%A0%EB%A6%AC%EC%97%90%EB%A0%88%EC%8A%A4%ED%86%A0%EB%9E%91,13352067,PLACE_POI/-/transit?c=15.00,0,0,0,dh",
+    "kakaoMap": "https://map.kakao.com/?map_type=TYPE_MAP&itemId=72907408&target=car&rt=%2C%2C555420%2C662420&rt1=&rt2=%EB%AA%BD%ED%8E%A0%EB%A6%AC%EC%97%90+%EC%9C%A0%EB%A6%AC%ED%95%98%EC%9A%B0%EC%8A%A4%EC%9B%A8%EB%94%A9%ED%99%80&rtIds=%2C72907408&rtTypes=%2CPLACE",
+    "lat": 35.8818812155637,
+    "lon": 127.245435232902
   },
   "locationInfo": [
     {
