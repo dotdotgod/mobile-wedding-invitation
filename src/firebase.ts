@@ -11,6 +11,7 @@ const firebaseConfig = {
   messagingSenderId: '551352453879',
   appId: '1:551352453879:web:5449a804fad9776851e1f2',
   measurementId: 'G-V2873NSNZL',
+  databaseURL: 'https://alpc-wedding-invitation-default-rtdb.asia-southeast1.firebasedatabase.app/',
 };
 
 export const firebaseApp = initializeApp(firebaseConfig);

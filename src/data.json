@@ -9,11 +9,11 @@
         "parents": [
           {
             "relation": "아버지",
-            "name": "정아빠"
+            "name": "정상식"
           },
           {
             "relation": "어머니",
-            "name": "이엄마"
+            "name": "고병남"
           }
         ]
       },
@@ -23,16 +23,16 @@
         "parents": [
           {
             "relation": "아버지",
-            "name": "박아빠"
+            "name": "박인종"
           },
           {
             "relation": "어머니",
-            "name": "이엄마"
+            "name": "서은숙"
           }
         ]
       }
     },
-    "eventDetail": "2024년 2월 17일 (토) 14:00\n아펠가모 공덕 라로브홀"
+    "eventDetail": "2024년 10월 05일 (토) 17:00\n몽펠리에"
   },
   "hostInfo": [
     {
@@ -47,13 +47,13 @@
           "tossAccount": ""
         },
         {
-          "name": "장아빠",
+          "name": "정상식",
           "relation": "아버지",
           "bank": "농협",
           "account": "123-45-678901"
         },
         {
-          "name": "이엄마",
+          "name": "고병남",
           "relation": "어머니",
           "bank": "농협",
           "account": "123-45-678901"
@@ -66,19 +66,19 @@
         {
           "name": "박지연",
           "relation": "신부",
-          "bank": "토스뱅크",
-          "account": "1234-5678-9012",
+          "bank": "카카오뱅크",
+          "account": "3333-172-311942",
           "kakaopayAccount": "",
           "tossAccount": ""
         },
         {
-          "name": "황아빠",
+          "name": "박인종",
           "relation": "아버지",
           "bank": "농협",
           "account": "123-45-678901"
         },
         {
-          "name": "이엄마",
+          "name": "서은숙",
           "relation": "어머니",
           "bank": "농협",
           "account": "123-45-678901"
