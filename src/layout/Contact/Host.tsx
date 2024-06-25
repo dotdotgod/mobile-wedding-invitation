@@ -48,7 +48,8 @@ const HighlightedName = styled.span`
 
 const HostContainer = styled.div`
   gap: 8px;
-  font-family: HSSanTokki20-Regular, serif;
+  font-weight: 900;
+  /* font-family: HSSanTokki20-Regular, serif; */
 `;
 
 const HostDetails = styled.div`
@@ -59,7 +60,7 @@ const HostDetails = styled.div`
   gap: 6px;
   text-align: center;
   align-items: center;
-  font-weight: 700;
+  font-weight: 900;
 `;
 
 const RelationText = styled.div`
